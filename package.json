@@ -1,0 +1,25 @@
+{
+  "name": "@pragyagangber/array-reverse",
+  "version": "1.0.0",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^7.0.0"
+  },
+  "devDependencies": {
+    "ansi-bold": "^0.1.1",
+    "array-slice": "^1.0.0",
+    "benchmarked": "^1.1.1",
+    "gulp-format-md": "^1.0.0",
+    "matched": "^1.0.2",
+    "mocha": "^3.5.0"
+  }
+}
